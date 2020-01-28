@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen</string>
+
+    <string-array name="spinner_data">
+        <item>Colores</item>
+        <item>Cantidad de letras</item>
+    </string-array>
+</resources>
